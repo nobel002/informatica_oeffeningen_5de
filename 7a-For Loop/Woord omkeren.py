@@ -1,5 +1,5 @@
-#Als one liner:
-#print(input('geef een woord')[::-1])
+# Als one liner:
+# print(input('geef een woord')[::-1])
 
 woord = str(input("woord: "))
 omgekeerd_woord = ""
